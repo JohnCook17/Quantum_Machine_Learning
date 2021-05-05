@@ -4,7 +4,7 @@ This machine learning modle utilizes qubits to help speed up training. It is bas
 
 ## Installation
 
-Download Anaconda and install [environment_droplet.yml](Quantum_Machine_Learning/enviroment_droplet.yml) using the command
+Download Anaconda and install [environment_droplet.yml]((/../../)enviroment_droplet.yml) using the command
 ```bash
 conda env create -f environment.yml
 ```
