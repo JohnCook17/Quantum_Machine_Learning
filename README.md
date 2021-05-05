@@ -1,6 +1,6 @@
 # Supervised learning using a quantum classifier
 
-This machine learning module utilizes qubits to help speed up training. It is based off of the paper ["Supervised learning with a quantum classifier using a multi-level system"](https://arxiv.org/pdf/1908.08385.pdf). This is done through the utilization of Hilbert space. Hilbert space is perfect for machine learning. It is a vector space that is ideal for vector calculus, and machine learning is fancy vector calculus.
+This machine learning modle utilizes qubits to help speed up training. It is based off of the paper ["Supervised learning with a quantum classifier using a multi-level system"](https://arxiv.org/pdf/1908.08385.pdf). This is done through the utilization of Hilbert space. Hilbert space is perfect for machine learning. It is a vector space that is ideal for vector calculus, and machine learning is fancy vector calculus.
 
 ## Installation
 
