@@ -80,3 +80,5 @@ The execution protion of the code executes the code and prints out relevant info
 Next is the prediction execution, it is simular to the process described above. Admittly the prediction process is slow this is a trade off of my implementation of one shot or few shot traning.
 
 Finaly at the end of the note book there will be graphs and data about the training and prediction, eventualy.
+
+Sadly my code does not currently predict the classes correctly but I will fix this in time.
